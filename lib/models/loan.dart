@@ -1,4 +1,3 @@
-// [ShelfMate Dev Step 3/4]: Add toMap and fromMap serialization with joins to Loan model
 import 'category.dart';
 import 'loan_status.dart';
 

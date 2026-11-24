@@ -1,4 +1,4 @@
-// [ShelfMate Dev Step 1/4]: Add unit tests for Loan instantiation and default status
+// [ShelfMate Dev Step 2/4]: Add unit tests for Loan copyWith functionality
 import 'package:flutter_test/flutter_test.dart';
 import 'package:shelfmate/models/category.dart';
 import 'package:shelfmate/models/loan.dart';

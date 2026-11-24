@@ -1,4 +1,3 @@
-// [ShelfMate Dev Step 1/2]: Define LoanStatus enum for Out and Returned states
 import 'package:material_ui/material_ui.dart';
 
 enum LoanStatus {

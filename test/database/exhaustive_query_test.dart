@@ -1,4 +1,4 @@
-// [ShelfMate Dev Step 1/5]: Add query suite for complex filter combinations
+// [ShelfMate Dev Step 2/5]: Add query suite for overdue sorting and limits
 import 'package:flutter_test/flutter_test.dart';
 import 'package:shelfmate/database/database_helper.dart';
 import 'package:shelfmate/database/database_service.dart';

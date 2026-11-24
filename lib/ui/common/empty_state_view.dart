@@ -1,4 +1,3 @@
-// [ShelfMate Dev Step 1/2]: Create EmptyStateView widget with custom icons and titles
 import 'package:material_ui/material_ui.dart';
 
 class EmptyStateView extends StatelessWidget {

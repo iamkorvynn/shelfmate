@@ -1,4 +1,4 @@
-// [ShelfMate Dev Step 1/5]: Add edge case tests for ties in most-borrowed items
+// [ShelfMate Dev Step 2/5]: Add edge case tests for ties in frequent borrowers
 import 'package:flutter_test/flutter_test.dart';
 import 'package:material_ui/material_ui.dart';
 import 'package:shelfmate/models/category.dart';

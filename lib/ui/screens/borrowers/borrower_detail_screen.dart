@@ -1,4 +1,3 @@
-// [ShelfMate Dev Step 2/3]: Add currently borrowed items tab to BorrowerDetailScreen
 import 'package:material_ui/material_ui.dart';
 import 'package:shelfmate/state/app_state.dart';
 import 'package:shelfmate/ui/common/confirm_dialog.dart';

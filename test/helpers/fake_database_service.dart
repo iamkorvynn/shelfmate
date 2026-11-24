@@ -1,4 +1,4 @@
-// [ShelfMate Dev Step 1/4]: Create FakeDatabaseService test double structure
+// [ShelfMate Dev Step 2/4]: Implement in-memory item operations in FakeDatabaseService
 import 'package:shelfmate/database/database_service.dart';
 import 'package:shelfmate/models/app_settings.dart';
 import 'package:shelfmate/models/borrower.dart';

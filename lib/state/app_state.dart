@@ -1,4 +1,4 @@
-// [ShelfMate Dev Step 2/6]: Implement loadInitialData in AppState to populate reactive state
+// [ShelfMate Dev Step 3/6]: Implement lendItem and markReturned actions in AppState
 import 'package:material_ui/material_ui.dart';
 import '../database/database_service.dart';
 import '../models/app_settings.dart';

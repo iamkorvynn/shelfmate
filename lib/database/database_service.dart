@@ -1,4 +1,4 @@
-// [ShelfMate Dev Step 6/10]: Implement getActiveLoans and getReturnedLoans queries with JOINs
+// [ShelfMate Dev Step 7/10]: Implement getOverdueLoans and getDueSoonLoans queries
 import 'package:sqflite/sqflite.dart';
 import '../models/app_settings.dart';
 import '../models/borrower.dart';

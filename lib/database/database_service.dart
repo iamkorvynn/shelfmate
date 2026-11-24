@@ -1,4 +1,4 @@
-// [ShelfMate Dev Step 1/10]: Create DatabaseService class and item insert/query methods
+// [ShelfMate Dev Step 2/10]: Add update and delete item queries in DatabaseService
 import 'package:sqflite/sqflite.dart';
 import '../models/app_settings.dart';
 import '../models/borrower.dart';

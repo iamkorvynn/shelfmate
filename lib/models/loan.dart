@@ -1,4 +1,4 @@
-// [ShelfMate Dev Step 1/4]: Define Loan model core properties and constructor
+// [ShelfMate Dev Step 2/4]: Add copyWith method to Loan model
 import 'category.dart';
 import 'loan_status.dart';
 

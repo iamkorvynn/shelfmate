@@ -1,4 +1,3 @@
-// [ShelfMate Dev Step 1/2]: Create MetricCard widget for dashboard and stats metrics
 import 'package:material_ui/material_ui.dart';
 
 class MetricCard extends StatelessWidget {

@@ -1,4 +1,4 @@
-// [ShelfMate Dev Step 1/3]: Create LoanCard widget layout for active and returned items
+// [ShelfMate Dev Step 2/3]: Add action buttons to mark returned on active loan cards
 import 'package:material_ui/material_ui.dart';
 import 'package:shelfmate/models/loan.dart';
 import 'package:shelfmate/services/date_formatter.dart';

@@ -1,4 +1,4 @@
-// [ShelfMate Dev Step 2/4]: Add tests for AppState lendItem and markReturned operations
+// [ShelfMate Dev Step 3/4]: Add tests for AppState borrower addition and lookup
 import 'package:flutter_test/flutter_test.dart';
 import 'package:shelfmate/database/database_helper.dart';
 import 'package:shelfmate/database/database_service.dart';

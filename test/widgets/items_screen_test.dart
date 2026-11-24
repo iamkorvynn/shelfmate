@@ -1,4 +1,4 @@
-// [ShelfMate Dev Step 1/3]: Add widget tests for ItemsScreen Out and Returned tab switching
+// [ShelfMate Dev Step 2/3]: Add widget tests for ItemsScreen category filter chips
 import 'package:flutter_test/flutter_test.dart';
 import 'package:material_ui/material_ui.dart';
 import 'package:shelfmate/models/category.dart';

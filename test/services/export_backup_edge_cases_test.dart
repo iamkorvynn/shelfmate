@@ -1,4 +1,3 @@
-// [ShelfMate Dev Step 2/3]: Add tests for missing version fields in backup JSON
 import 'package:flutter_test/flutter_test.dart';
 import 'package:shelfmate/database/database_helper.dart';
 import 'package:shelfmate/database/database_service.dart';

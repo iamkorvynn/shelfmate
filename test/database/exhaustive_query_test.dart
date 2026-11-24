@@ -1,4 +1,4 @@
-// [ShelfMate Dev Step 2/5]: Add query suite for overdue sorting and limits
+// [ShelfMate Dev Step 3/5]: Add query suite for loan return timestamp validations
 import 'package:flutter_test/flutter_test.dart';
 import 'package:shelfmate/database/database_helper.dart';
 import 'package:shelfmate/database/database_service.dart';

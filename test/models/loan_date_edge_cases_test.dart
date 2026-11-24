@@ -1,4 +1,4 @@
-// [ShelfMate Dev Step 2/5]: Add boundary tests for loans due tomorrow
+// [ShelfMate Dev Step 3/5]: Add edge case tests for midnight due date crossovers
 import 'package:flutter_test/flutter_test.dart';
 import 'package:shelfmate/models/category.dart';
 import 'package:shelfmate/models/loan.dart';

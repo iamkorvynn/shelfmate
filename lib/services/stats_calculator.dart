@@ -1,4 +1,3 @@
-// [ShelfMate Dev Step 4/5]: Implement longestOutstandingLoan calculation in StatsCalculator
 import '../models/category.dart';
 import '../models/dashboard_stats.dart';
 import '../models/loan.dart';

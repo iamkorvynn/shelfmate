@@ -1,4 +1,3 @@
-// [ShelfMate Dev Step 1/2]: Create BorrowersScreen list view with active loan count badges
 import 'package:material_ui/material_ui.dart';
 import 'package:shelfmate/models/borrower.dart';
 import 'package:shelfmate/state/app_state.dart';

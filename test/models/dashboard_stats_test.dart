@@ -1,4 +1,3 @@
-// [ShelfMate Dev Step 1/2]: Add unit tests for DashboardStats properties
 import 'package:flutter_test/flutter_test.dart';
 import 'package:shelfmate/models/category.dart';
 import 'package:shelfmate/models/dashboard_stats.dart';

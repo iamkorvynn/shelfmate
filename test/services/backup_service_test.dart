@@ -1,4 +1,3 @@
-// [ShelfMate Dev Step 1/2]: Add unit tests for JSON backup export structure
 import 'dart:convert';
 import 'package:flutter_test/flutter_test.dart';
 import 'package:shelfmate/services/backup_service.dart';

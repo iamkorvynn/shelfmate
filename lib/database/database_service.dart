@@ -1,4 +1,4 @@
-// [ShelfMate Dev Step 5/10]: Implement markLoanReturned method with return date and notes
+// [ShelfMate Dev Step 6/10]: Implement getActiveLoans and getReturnedLoans queries with JOINs
 import 'package:sqflite/sqflite.dart';
 import '../models/app_settings.dart';
 import '../models/borrower.dart';

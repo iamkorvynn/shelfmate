@@ -1,4 +1,3 @@
-// [ShelfMate Dev Step 1/2]: Define Borrower friend domain model with contact details
 class Borrower {
   final int? id;
   final String name;

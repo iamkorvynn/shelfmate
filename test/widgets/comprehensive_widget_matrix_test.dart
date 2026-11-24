@@ -1,4 +1,4 @@
-// [ShelfMate Dev Step 1/4]: Add matrix tests for CategoryBadge and StatusBadge
+// [ShelfMate Dev Step 2/4]: Add matrix tests for MetricCard variants
 import 'package:flutter_test/flutter_test.dart';
 import 'package:material_ui/material_ui.dart';
 import 'package:shelfmate/models/category.dart';

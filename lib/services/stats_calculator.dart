@@ -1,4 +1,4 @@
-// [ShelfMate Dev Step 1/5]: Create StatsCalculator service structure
+// [ShelfMate Dev Step 2/5]: Implement mostBorrowedItem calculation in StatsCalculator
 import '../models/category.dart';
 import '../models/dashboard_stats.dart';
 import '../models/loan.dart';

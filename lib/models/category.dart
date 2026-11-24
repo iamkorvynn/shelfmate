@@ -1,4 +1,3 @@
-// [ShelfMate Dev Step 1/2]: Define ItemCategory enum with supported categories
 import 'package:material_ui/material_ui.dart';
 
 enum ItemCategory {

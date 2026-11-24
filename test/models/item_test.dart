@@ -1,4 +1,3 @@
-// [ShelfMate Dev Step 1/2]: Add unit tests for Item creation and copyWith
 import 'package:flutter_test/flutter_test.dart';
 import 'package:shelfmate/models/category.dart';
 import 'package:shelfmate/models/item.dart';

@@ -1,4 +1,3 @@
-// [ShelfMate Dev Step 9/10]: Implement app settings persistence in DatabaseService
 import 'package:sqflite/sqflite.dart';
 import '../models/app_settings.dart';
 import '../models/borrower.dart';

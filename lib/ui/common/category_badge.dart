@@ -1,4 +1,3 @@
-// [ShelfMate Dev Step 1/2]: Create CategoryBadge widget with category icon and label
 import 'package:material_ui/material_ui.dart';
 import '../../models/category.dart';
 

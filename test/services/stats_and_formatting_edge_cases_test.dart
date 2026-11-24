@@ -1,4 +1,4 @@
-// [ShelfMate Dev Step 2/5]: Add edge case tests for ties in frequent borrowers
+// [ShelfMate Dev Step 3/5]: Add edge case tests for 0% and 100% on-time return rates
 import 'package:flutter_test/flutter_test.dart';
 import 'package:material_ui/material_ui.dart';
 import 'package:shelfmate/models/category.dart';

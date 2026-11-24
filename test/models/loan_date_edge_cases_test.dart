@@ -1,4 +1,4 @@
-// [ShelfMate Dev Step 1/5]: Add boundary tests for loans due today
+// [ShelfMate Dev Step 2/5]: Add boundary tests for loans due tomorrow
 import 'package:flutter_test/flutter_test.dart';
 import 'package:shelfmate/models/category.dart';
 import 'package:shelfmate/models/loan.dart';

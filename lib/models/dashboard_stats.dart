@@ -1,4 +1,3 @@
-// [ShelfMate Dev Step 1/2]: Define DashboardStats summary data structure
 import 'category.dart';
 import 'loan.dart';
 

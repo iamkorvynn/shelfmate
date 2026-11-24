@@ -1,4 +1,4 @@
-// [ShelfMate Dev Step 4/10]: Implement loan creation and insert query in DatabaseService
+// [ShelfMate Dev Step 5/10]: Implement markLoanReturned method with return date and notes
 import 'package:sqflite/sqflite.dart';
 import '../models/app_settings.dart';
 import '../models/borrower.dart';

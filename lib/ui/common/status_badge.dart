@@ -1,4 +1,3 @@
-// [ShelfMate Dev Step 1/2]: Create StatusBadge widget with Out and Returned indicators
 import 'package:material_ui/material_ui.dart';
 import '../../models/loan_status.dart';
 

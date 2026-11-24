@@ -1,4 +1,3 @@
-// [ShelfMate Dev Step 1/2]: Add widget tests for StatsScreen metrics display
 import 'package:flutter_test/flutter_test.dart';
 import 'package:material_ui/material_ui.dart';
 import 'package:shelfmate/models/category.dart';

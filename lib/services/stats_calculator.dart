@@ -1,4 +1,4 @@
-// [ShelfMate Dev Step 2/5]: Implement mostBorrowedItem calculation in StatsCalculator
+// [ShelfMate Dev Step 3/5]: Implement mostFrequentBorrower calculation in StatsCalculator
 import '../models/category.dart';
 import '../models/dashboard_stats.dart';
 import '../models/loan.dart';

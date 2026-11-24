@@ -1,4 +1,3 @@
-// [ShelfMate Dev Step 1/2]: Define AppSettings model for loan duration and reminders
 import 'package:material_ui/material_ui.dart';
 
 class AppSettings {

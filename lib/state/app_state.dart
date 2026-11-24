@@ -1,4 +1,4 @@
-// [ShelfMate Dev Step 4/6]: Implement addBorrower and addItem actions in AppState
+// [ShelfMate Dev Step 5/6]: Implement updateSettings and clearAllData actions in AppState
 import 'package:material_ui/material_ui.dart';
 import '../database/database_service.dart';
 import '../models/app_settings.dart';

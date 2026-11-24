@@ -1,4 +1,4 @@
-// [ShelfMate Dev Step 8/10]: Implement getNextDueLoan and borrower active loans lookup
+// [ShelfMate Dev Step 9/10]: Implement app settings persistence in DatabaseService
 import 'package:sqflite/sqflite.dart';
 import '../models/app_settings.dart';
 import '../models/borrower.dart';

@@ -1,4 +1,4 @@
-// [ShelfMate Dev Step 7/10]: Implement getOverdueLoans and getDueSoonLoans queries
+// [ShelfMate Dev Step 8/10]: Implement getNextDueLoan and borrower active loans lookup
 import 'package:sqflite/sqflite.dart';
 import '../models/app_settings.dart';
 import '../models/borrower.dart';

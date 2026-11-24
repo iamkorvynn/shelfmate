@@ -1,4 +1,3 @@
-// [ShelfMate Dev Step 1/2]: Add widget tests for MainScreen navigation tab switching
 import 'package:flutter_test/flutter_test.dart';
 import 'package:shelfmate/main.dart';
 import 'package:shelfmate/services/notification_service.dart';

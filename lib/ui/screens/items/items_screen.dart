@@ -1,4 +1,3 @@
-// [ShelfMate Dev Step 2/3]: Add category filter chips to ItemsScreen
 import 'package:material_ui/material_ui.dart';
 import '../../../models/category.dart';
 import '../../../models/loan.dart';

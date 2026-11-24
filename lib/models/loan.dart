@@ -1,4 +1,4 @@
-// [ShelfMate Dev Step 2/4]: Add copyWith method to Loan model
+// [ShelfMate Dev Step 3/4]: Add toMap and fromMap serialization with joins to Loan model
 import 'category.dart';
 import 'loan_status.dart';
 

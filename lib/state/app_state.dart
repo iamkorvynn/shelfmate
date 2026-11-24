@@ -1,4 +1,4 @@
-// [ShelfMate Dev Step 1/6]: Create AppState ChangeNotifier class with service dependencies
+// [ShelfMate Dev Step 2/6]: Implement loadInitialData in AppState to populate reactive state
 import 'package:material_ui/material_ui.dart';
 import '../database/database_service.dart';
 import '../models/app_settings.dart';

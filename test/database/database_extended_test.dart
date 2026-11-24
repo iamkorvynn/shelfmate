@@ -1,4 +1,4 @@
-// [ShelfMate Dev Step 1/4]: Add tests for borrower active vs returned loan history
+// [ShelfMate Dev Step 2/4]: Add tests for item deletion constraints with active loans
 import 'package:flutter_test/flutter_test.dart';
 import 'package:shelfmate/database/database_helper.dart';
 import 'package:shelfmate/database/database_service.dart';

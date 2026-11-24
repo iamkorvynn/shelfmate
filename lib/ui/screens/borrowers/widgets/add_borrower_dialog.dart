@@ -1,4 +1,3 @@
-// [ShelfMate Dev Step 1/2]: Create AddBorrowerDialog widget layout
 import 'package:material_ui/material_ui.dart';
 import '../../../../models/borrower.dart';
 import '../../../../state/app_state.dart';

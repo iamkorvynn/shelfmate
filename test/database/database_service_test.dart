@@ -1,4 +1,4 @@
-// [ShelfMate Dev Step 1/4]: Add tests for DatabaseService item CRUD operations
+// [ShelfMate Dev Step 2/4]: Add tests for DatabaseService borrower operations
 import 'package:flutter_test/flutter_test.dart';
 import 'package:shelfmate/database/database_helper.dart';
 import 'package:shelfmate/database/database_service.dart';

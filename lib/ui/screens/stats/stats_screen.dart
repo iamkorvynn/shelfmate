@@ -1,4 +1,4 @@
-// [ShelfMate Dev Step 1/3]: Create StatsScreen structure and summary metrics cards
+// [ShelfMate Dev Step 2/3]: Add category loan distribution breakdown bar chart in StatsScreen
 import 'package:material_ui/material_ui.dart';
 import 'package:shelfmate/models/category.dart';
 import 'package:shelfmate/services/date_formatter.dart';

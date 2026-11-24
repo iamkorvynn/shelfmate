@@ -1,4 +1,3 @@
-// [ShelfMate Dev Step 2/3]: Configure light theme typography and card themes
 import 'package:material_ui/material_ui.dart';
 
 class AppTheme {

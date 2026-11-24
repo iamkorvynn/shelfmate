@@ -1,4 +1,4 @@
-// [ShelfMate Dev Step 2/4]: Add unit tests for Loan copyWith functionality
+// [ShelfMate Dev Step 3/4]: Add unit tests for Loan map serialization and join parsing
 import 'package:flutter_test/flutter_test.dart';
 import 'package:shelfmate/models/category.dart';
 import 'package:shelfmate/models/loan.dart';

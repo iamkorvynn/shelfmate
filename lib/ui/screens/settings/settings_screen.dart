@@ -1,4 +1,3 @@
-// [ShelfMate Dev Step 2/3]: Add reminder time and 12h/24h clock toggle in SettingsScreen
 import 'package:material_ui/material_ui.dart';
 import 'package:shelfmate/services/date_formatter.dart';
 import 'package:shelfmate/state/app_state.dart';

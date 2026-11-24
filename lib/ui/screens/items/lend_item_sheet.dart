@@ -1,4 +1,4 @@
-// [ShelfMate Dev Step 1/4]: Create LendItemSheet modal bottom sheet structure
+// [ShelfMate Dev Step 2/4]: Add item name, category selection, and notes to LendItemSheet
 import 'package:material_ui/material_ui.dart';
 import 'package:shelfmate/models/borrower.dart';
 import 'package:shelfmate/models/category.dart';

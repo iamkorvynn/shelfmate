@@ -1,4 +1,3 @@
-// [ShelfMate Dev Step 3/4]: Add widget tests for MetricCard rendering and tap callbacks
 import 'package:flutter_test/flutter_test.dart';
 import 'package:material_ui/material_ui.dart';
 import 'package:shelfmate/models/category.dart';

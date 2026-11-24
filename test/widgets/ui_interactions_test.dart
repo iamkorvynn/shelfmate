@@ -1,4 +1,3 @@
-// [ShelfMate Dev Step 2/3]: Add integration tests for marking items returned and history
 import 'package:flutter_test/flutter_test.dart';
 import 'package:material_ui/material_ui.dart';
 import 'package:shelfmate/models/category.dart';

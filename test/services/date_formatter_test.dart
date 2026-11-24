@@ -1,4 +1,3 @@
-// [ShelfMate Dev Step 1/2]: Add unit tests for standard and short date formatting
 import 'package:flutter_test/flutter_test.dart';
 import 'package:material_ui/material_ui.dart';
 import 'package:shelfmate/services/date_formatter.dart';

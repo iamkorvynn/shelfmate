@@ -1,4 +1,3 @@
-// [ShelfMate Dev Step 1/2]: Define Item domain model with category and timestamps
 import 'category.dart';
 
 class Item {

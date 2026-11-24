@@ -1,4 +1,4 @@
-// [ShelfMate Dev Step 1/4]: Add tests for AppState initial empty state and loading
+// [ShelfMate Dev Step 2/4]: Add tests for AppState lendItem and markReturned operations
 import 'package:flutter_test/flutter_test.dart';
 import 'package:shelfmate/database/database_helper.dart';
 import 'package:shelfmate/database/database_service.dart';

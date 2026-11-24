@@ -15,3 +15,20 @@ It answers one question: *"What did I lend, to whom, and when is it coming back?
 - **History**: Full archive of returned items with lent date, return date, and total duration out.
 - **Stats**: Rich insights including most-borrowed item, most frequent borrower, longest loan, on-time return rate, and loans per category.
 - **Settings**: Default loan period in days, reminder time picker, 12h/24h clock toggle, CSV data export, JSON backup & restore, and complete data wipe.
+
+## Architecture & Technology Stack
+
+- **Framework**: Flutter 3.x (Dart SDK)
+- **Design System**: Material Design 3 with dynamic color schemes and accessibility support
+- **State Management**: `ChangeNotifier` and `Provider` pattern for predictable, reactive UI updates
+- **Local Persistence**: SQLite via `sqflite` (desktop / mobile FFI compatible)
+- **Local Notifications**: `flutter_local_notifications` with desugaring enabled
+- **Privacy First**: Zero accounts, zero analytics, zero cloud sync. 100% on-device SQLite storage. Starts empty with no demo data.
+
+### Database Schema
+
+ShelfMate stores all data locally in a SQLite database with four tables:
+1. `items`: Stores lent items (`id`, `name`, `category`, `notes`, `created_at`).
+2. `borrowers`: Stores friends (`id`, `name`, `phone`, `created_at`).
+3. `loans`: Tracks loan instances (`id`, `item_id`, `borrower_id`, `lent_date`, `expected_return_date`, `return_date`, `status`, `notes`, `created_at`).
+4. `app_settings`: Stores user preferences (`id`, `default_loan_period_days`, `reminder_time_hour`, `reminder_time_minute`, `use_24_hour_format`).

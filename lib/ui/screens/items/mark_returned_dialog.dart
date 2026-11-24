@@ -1,4 +1,3 @@
-// [ShelfMate Dev Step 1/2]: Create MarkReturnedDialog widget structure
 import 'package:material_ui/material_ui.dart';
 import 'package:shelfmate/models/loan.dart';
 import 'package:shelfmate/services/date_formatter.dart';

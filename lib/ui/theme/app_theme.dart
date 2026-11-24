@@ -1,4 +1,4 @@
-// [ShelfMate Dev Step 1/3]: Define Material 3 color schemes in AppTheme
+// [ShelfMate Dev Step 2/3]: Configure light theme typography and card themes
 import 'package:material_ui/material_ui.dart';
 
 class AppTheme {

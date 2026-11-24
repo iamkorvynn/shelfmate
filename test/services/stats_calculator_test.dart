@@ -1,4 +1,3 @@
-// [ShelfMate Dev Step 3/4]: Add unit tests for longest loan and on-time return rate
 import 'package:flutter_test/flutter_test.dart';
 import 'package:shelfmate/models/category.dart';
 import 'package:shelfmate/models/loan.dart';

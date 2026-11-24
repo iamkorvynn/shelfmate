@@ -1,4 +1,4 @@
-// [ShelfMate Dev Step 2/10]: Add update and delete item queries in DatabaseService
+// [ShelfMate Dev Step 3/10]: Implement borrower CRUD queries in DatabaseService
 import 'package:sqflite/sqflite.dart';
 import '../models/app_settings.dart';
 import '../models/borrower.dart';

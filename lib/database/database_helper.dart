@@ -1,4 +1,3 @@
-// [ShelfMate Dev Step 2/3]: Implement openDatabase and onCreate table creation callback
 import 'package:path/path.dart' as p;
 import 'package:sqflite/sqflite.dart';
 import 'tables.dart';

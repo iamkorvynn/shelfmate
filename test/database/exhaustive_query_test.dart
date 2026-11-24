@@ -1,4 +1,3 @@
-// [ShelfMate Dev Step 4/5]: Add query suite for borrower name search and phone indexing
 import 'package:flutter_test/flutter_test.dart';
 import 'package:shelfmate/database/database_helper.dart';
 import 'package:shelfmate/database/database_service.dart';

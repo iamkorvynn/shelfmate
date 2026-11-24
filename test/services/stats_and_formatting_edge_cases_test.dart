@@ -1,4 +1,3 @@
-// [ShelfMate Dev Step 4/5]: Add edge case tests for relative days with extreme dates
 import 'package:flutter_test/flutter_test.dart';
 import 'package:material_ui/material_ui.dart';
 import 'package:shelfmate/models/category.dart';

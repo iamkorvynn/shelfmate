@@ -1,4 +1,3 @@
-// [ShelfMate Dev Step 2/3]: Add CREATE TABLE statements for items, borrowers, and loans
 class Tables {
   static const String borrowers = 'borrowers';
   static const String items = 'items';

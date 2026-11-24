@@ -1,4 +1,3 @@
-// [ShelfMate Dev Step 1/2]: Create MainScreen shell with 5-tab NavigationBar
 import 'package:material_ui/material_ui.dart';
 import '../../state/app_state.dart';
 import 'borrowers/borrowers_screen.dart';

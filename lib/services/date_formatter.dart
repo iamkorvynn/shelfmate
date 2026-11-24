@@ -1,4 +1,3 @@
-// [ShelfMate Dev Step 2/3]: Add formatRelativeDays method for overdue and due soon labels
 import 'package:intl/intl.dart';
 import 'package:material_ui/material_ui.dart';
 

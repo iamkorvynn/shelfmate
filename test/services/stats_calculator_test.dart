@@ -1,4 +1,4 @@
-// [ShelfMate Dev Step 1/4]: Add unit tests for most-borrowed item calculations
+// [ShelfMate Dev Step 2/4]: Add unit tests for most frequent borrower calculations
 import 'package:flutter_test/flutter_test.dart';
 import 'package:shelfmate/models/category.dart';
 import 'package:shelfmate/models/loan.dart';

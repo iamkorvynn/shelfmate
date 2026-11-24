@@ -1,4 +1,4 @@
-// [ShelfMate Dev Step 3/5]: Implement mostFrequentBorrower calculation in StatsCalculator
+// [ShelfMate Dev Step 4/5]: Implement longestOutstandingLoan calculation in StatsCalculator
 import '../models/category.dart';
 import '../models/dashboard_stats.dart';
 import '../models/loan.dart';

@@ -1,4 +1,4 @@
-// [ShelfMate Dev Step 1/3]: Create CSV export confirmation dialog widget
+// [ShelfMate Dev Step 2/3]: Create JSON backup and restore dialog widgets
 import 'package:flutter/services.dart';
 import 'package:material_ui/material_ui.dart';
 import '../../../../services/backup_service.dart';

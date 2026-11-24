@@ -1,4 +1,4 @@
-// [ShelfMate Dev Step 1/3]: Create BackupService class and define backup JSON schema
+// [ShelfMate Dev Step 2/3]: Implement exportBackupToJson in BackupService
 import 'dart:convert';
 import '../database/database_service.dart';
 

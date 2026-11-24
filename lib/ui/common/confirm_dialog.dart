@@ -1,4 +1,3 @@
-// [ShelfMate Dev Step 1/2]: Create ConfirmDialog reusable modal dialog widget
 import 'package:material_ui/material_ui.dart';
 
 class ConfirmDialog extends StatelessWidget {

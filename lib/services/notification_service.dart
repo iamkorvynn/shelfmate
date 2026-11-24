@@ -1,4 +1,4 @@
-// [ShelfMate Dev Step 1/4]: Create NotificationService singleton and plugin instance
+// [ShelfMate Dev Step 2/4]: Configure Android notification channels for reminders
 import 'package:flutter_local_notifications/flutter_local_notifications.dart';
 import 'package:material_ui/material_ui.dart';
 import '../models/loan.dart';

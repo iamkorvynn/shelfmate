@@ -1,4 +1,3 @@
-// [ShelfMate Dev Step 2/3]: Add Next Due section and recent loans list in DashboardScreen
 import 'package:material_ui/material_ui.dart';
 import '../../../state/app_state.dart';
 import '../../common/empty_state_view.dart';

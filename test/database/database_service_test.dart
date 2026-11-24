@@ -1,4 +1,3 @@
-// [ShelfMate Dev Step 3/4]: Add tests for DatabaseService loan lifecycle and returns
 import 'package:flutter_test/flutter_test.dart';
 import 'package:shelfmate/database/database_helper.dart';
 import 'package:shelfmate/database/database_service.dart';
